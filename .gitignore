@@ -1,0 +1,17 @@
+# Photos only
+*
+!*/
+!*.jpg
+!*.JPG
+!*.jpeg
+!*.heic
+!*.HEIC
+!*.png
+!*.webp
+!.gitignore
+campagne_novembre_2026/outils/
+
+# Only numbered and E stock folders
+/annonces/
+/campagne_novembre_2026/
+/D2C/
